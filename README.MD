@@ -4,15 +4,15 @@ I found [tasks] from that GitHub page and had the interest to resolve while stay
 
 I know that it's not the best solutions.
 
-Run gradle to get the answer for the tasks 1-5.
-
+### Tasks
 1. Find the last 10 digits of the sum of the sequence 1^1 + 2^2 + 3^3 + ... + 1000^1000?: 
 2. What is the index of the first member of the Fibonacci series, which has 1000 digits in decimal notation?: 
 3. Find the sum of the digits in the decimal notation of the number 100!?:
 4. What is the sum of the digits in the decimal notation of 2 ^ 1000?:
 5. Find the number and it max sequence length 
 
-
+### Run app
+Run gradle to get the answer for the tasks 1-5.
 ```
 gradle run
 ```
