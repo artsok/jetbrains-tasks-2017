@@ -18,6 +18,11 @@ gradle run
 ```
 
 ### Commentaries
+In task 2 we can use the formula to find index, but standard digit numbers (int, long, double) have limits, that why I used BigDecimal. 
+```
+double n = 144.0;
+int a = (int) Math.round(Math.log(n * Math.sqrt(5) + 0.5) / Math.log((1 + Math.sqrt(5))/2));
+```
 
 Task #5 could be improved by using storage for already found sequences.
 
