@@ -26,5 +26,7 @@ int a = (int) Math.round(Math.log(n * Math.sqrt(5) + 0.5) / Math.log((1 + Math.s
 
 2. Task #5 could be improved by using storage for already found sequences.
 
+3. Task #6 with JNDI skipped, doesn't interest me.
+
 [tasks]: https://github.com/unix-junkie/teamcity-autotools-plugin/issues/1
  
