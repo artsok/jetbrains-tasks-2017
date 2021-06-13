@@ -2,7 +2,7 @@
 ### Intro
 I found [tasks] from that GitHub page and had the interest to resolve while stayed home with COVID-19.
 
-I know that it's not the best solutions.
+I know that it's not the best solutions in my code :) But you can help me to improve it
 
 ### Tasks
 1. Find the last 10 digits of the sum of the sequence 1^1 + 2^2 + 3^3 + ... + 1000^1000?: 
