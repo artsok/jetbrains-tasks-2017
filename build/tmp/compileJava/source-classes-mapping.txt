@@ -1,6 +1,0 @@
-io/artsok/tasks/Task5.java
- io.artsok.tasks.Task5
-io/artsok/tasks/Task4.java
- io.artsok.tasks.Task4
-io/artsok/MainClass.java
- io.artsok.MainClass
