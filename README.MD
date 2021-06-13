@@ -14,7 +14,7 @@ Run gradle to get the answer for the tasks 1-5.
 
 
 ```
-gradle run --args="number of task"
+gradle run
 ```
 
 ### Commentaries
